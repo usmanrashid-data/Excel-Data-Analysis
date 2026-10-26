@@ -3,47 +3,66 @@
 ## 🚀 Overview
 Welcome to my Excel Data Analysis project! This workbook was completed during a Data Technician Bootcamp and showcases a range of Excel skills used to analyse retail and sales data. From cleaning and organising data to creating insightful reports and visualisations, this project demonstrates how Excel can be used to turn raw data into meaningful business insights.
 
-🛠️ Skills & Techniques Demonstrated
-🧮 Excel Functions & Formulas
-✅ SUM
-✅ SUMIF
-✅ AVERAGE
-✅ AVERAGEIF
-✅ DATE
-✅ MONTH
-✅ YEAR
-✅ UNIQUE
-✅ VLOOKUP
-✅ SWITCH
-📈 Data Analysis
-Filtering datasets
-Sorting records
-Identifying trends and patterns
-Sales performance analysis
-Customer and product data exploration
-📊 Reporting & Visualisation
-PivotTables
-Charts & Graphs
-Data summaries
-Business reporting
-Dashboard-style analysis
-🎯 Project Highlights
-🔍 Data Exploration & Cleaning
+ce everything from 🛠️ Skills & Techniques Demonstrated down to 📸 Key Screenshots with this:
+
+Markdown
+## 🛠️ Skills & Techniques Demonstrated
+ 
+### 📋 Excel Functions & Formulas
+ 
+* SUM
+* SUMIF
+* AVERAGE
+* AVERAGEIF
+* DATE
+* MONTH
+* YEAR
+* UNIQUE
+* VLOOKUP
+* SWITCH
+ 
+### 📊 Data Analysis
+ 
+* Filtering datasets
+* Sorting records
+* Identifying trends and patterns
+* Sales performance analysis
+* Customer and product data exploration
+ 
+### 📈 Reporting & Visualisation
+ 
+* PivotTables
+* Charts & Graphs
+* Data summaries
+* Business reporting
+* Dashboard-style analysis
+ 
+---
+ 
+## 🎯 Project Highlights
+ 
+### 🔍 Data Exploration & Cleaning
+ 
 Used filtering and sorting techniques to organise datasets, identify key information, and prepare data for analysis.
-
-💰 Sales Analysis
-Applied formulas such as SUM, SUMIF, AVERAGE, and AVERAGEIF to calculate sales totals, category performance, and business metrics.
-
-📅 Date-Based Analysis
+ 
+### 💰 Sales Analysis
+ 
+Applied formulas such as SUM, SUMIF, AVERAGE, and AVERAGEIF to calculate sales totals, category performance, and key business metrics.
+ 
+### 📅 Date-Based Analysis
+ 
 Used DATE, MONTH, and YEAR functions to analyse time-based trends and improve reporting capabilities.
-
-🔑 Data Lookup & Validation
+ 
+### 🔑 Data Lookup & Validation
+ 
 Implemented VLOOKUP to retrieve information from datasets and UNIQUE to identify distinct values for reporting and analysis.
-
-🏷️ Product Classification
+ 
+### 🏷️ Product Classification
+ 
 Used the SWITCH function to automatically categorise products into performance groups such as High, Medium, and Low performers.
-
-📈 Business Intelligence
+ 
+### 📊 Business Intelligence
+ 
 Created PivotTables and charts to summarise large datasets and communicate key findings in a clear and engaging way.
 
 📸 Key Screenshots
