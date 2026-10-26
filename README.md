@@ -1,34 +1,87 @@
-# 📊 Excel Data Analysis & Business Intelligence Portfolio
+📊 Excel Data Analysis Project | Data Technician Bootcamp
+🚀 Overview
+Welcome to my Excel Data Analysis project! This workbook was completed during a Data Technician Bootcamp and showcases a range of Excel skills used to analyse retail and sales data. From cleaning and organising data to creating insightful reports and visualisations, this project demonstrates how Excel can be used to turn raw data into meaningful business insights.
 
-Welcome to my Excel portfolio repository! This project showcases practical data analysis work completed as part of the **LeepTalent Data Technician Bootcamp**. It highlights data cleaning, advanced spreadsheet functions, multi-variable filtering, dynamic PivotTables, and professional data visualization using retail, sales, and student datasets.
+🛠️ Skills & Techniques Demonstrated
+🧮 Excel Functions & Formulas
+✅ SUM
+✅ SUMIF
+✅ AVERAGE
+✅ AVERAGEIF
+✅ DATE
+✅ MONTH
+✅ YEAR
+✅ UNIQUE
+✅ VLOOKUP
+✅ SWITCH
+📈 Data Analysis
+Filtering datasets
+Sorting records
+Identifying trends and patterns
+Sales performance analysis
+Customer and product data exploration
+📊 Reporting & Visualisation
+PivotTables
+Charts & Graphs
+Data summaries
+Business reporting
+Dashboard-style analysis
+🎯 Project Highlights
+🔍 Data Exploration & Cleaning
+Used filtering and sorting techniques to organise datasets, identify key information, and prepare data for analysis.
 
----
+💰 Sales Analysis
+Applied formulas such as SUM, SUMIF, AVERAGE, and AVERAGEIF to calculate sales totals, category performance, and business metrics.
 
-## 🛠️ Key Skills & Functions Demonstrated
+📅 Date-Based Analysis
+Used DATE, MONTH, and YEAR functions to analyse time-based trends and improve reporting capabilities.
 
-* **Mathematical & Statistical Formulas:** Applied `SUM`, `SUMIF`, `AVERAGE`, and `AVERAGEIF` to aggregate financial totals and calculate commission metrics.
-* **Date & Time Functions:** Extracted and manipulated temporal data using `DATE`, `MONTH`, and `YEAR` formulas.
-* **Lookup & Logic Functions:** Utilized `VLOOKUP` for cross-table matching and the `SWITCH` function for dynamic conditional categorization (e.g., grouping sales volumes into "High", "Medium", and "Low" tiers).
-* **Data Organization:** Filtered and sorted multi-column datasets (sorting by age, transaction ID, and numerical ranges).
-* **PivotTables & Aggregations:** Built multi-level PivotTables summarising sales volume, profitability, and customer demographics across international markets and regions.
-* **Data Visualization:** Developed line charts, stacked bar charts, box plots, and pie charts to translate raw spreadsheets into clear business insights.
+🔑 Data Lookup & Validation
+Implemented VLOOKUP to retrieve information from datasets and UNIQUE to identify distinct values for reporting and analysis.
 
----
+🏷️ Product Classification
+Used the SWITCH function to automatically categorise products into performance groups such as High, Medium, and Low performers.
 
-## 📁 Project Modules & Highlights
+📈 Business Intelligence
+Created PivotTables and charts to summarise large datasets and communicate key findings in a clear and engaging way.
 
-### 1. Retail Sales & Commission Analysis (`retail_sales_dataset.xlsx`)
-* **Core Tasks:** Applied multi-level sorting on customer age and transaction IDs. Calculated total and average commission figures in target cells (`P10` and `P11`) using `SUM` and `AVERAGE`.
-* **Business Application:** Cleaned and evaluated customer demographics and transaction amounts to identify top-performing retail product categories (Clothing, Electronics, and Beauty).
+📸 Key Screenshots
+📊 1. PivotTable Sales Analysis
 
-### 2. Regional Sales & Performance Lab (`Bike_Sales_Pivot_Lab.xlsx` & `Bike_Sales_Visualizations_Lab.xlsx`)
-* **Core Tasks:** Constructed interactive PivotTables grouping order quantities and profit margins by **Country**, **Age Group**, and **Customer Gender**.
-* **Key Findings:** 
-  * Identified that the **United States** and **Australia** generated the highest overall revenue ($30.8M and $25.4M respectively).
-  * Uncovered market gaps, such as zero sales generated from customers under 25 in North America and specific European markets.
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c098d2ce-d71d-4fce-a420-9070dc4cc65d" />
 
-### 3. County Sales Volume Categorisation (`Task 2 Lab`)
-* **Core Tasks:** Summarised county-level sales data for products like Laptops, Printers, and Smartphones using PivotTables.
-* **Logic Application:** Implemented the `SWITCH` function to automatically categorise sales volumes:
-  ```excel
-  =SWITCH(TRUE, C2 > 600, "High", C2 >= 300, "Medium", "Low")
+This PivotTable analyses bike sales across multiple countries, age groups, and customer demographics. A supporting chart was created to visualise trends and compare sales performance between different customer segments.
+
+🏷️ 2. Product Categorisation with SWITCH Function
+
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/f3e07811-29ed-4cca-a2d6-180dc6659225" />
+
+This PivotTable summarises product sales volumes across different counties and product categories. The SWITCH function was used to automatically classify sales performance into categories such as High and Medium, demonstrating the use of logical formulas to automate data analysis and reporting.
+
+📈 3. Sales Dashboard & Visualisations
+
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/27963859-4591-4747-b1c8-9b02a2b06f69" />
+
+This line chart compares annual revenue and profit between 2017 and 2021. By visualising both metrics over time, it becomes easier to identify growth trends, measure business performance, and compare profitability against overall revenue. This demonstrates the use of Excel charts to transform raw data into meaningful business insights.
+
+💡 Key Learning Outcomes
+By completing this project, I developed practical experience in:
+
+🎯 Data Cleaning & Organisation
+🎯 Formula Creation & Problem Solving
+🎯 PivotTable Reporting
+🎯 Data Visualisation
+🎯 Business Analysis
+🎯 Spreadsheet Automation
+🎯 Turning Data into Actionable Insights
+
+🧰 Tools Used
+Microsoft Excel
+PivotTables
+Excel Functions & Formulas
+Charts & Graphs
+Data Analysis Techniques
+✅ Conclusion
+This project demonstrates how Excel can be used as a powerful data analysis tool to clean, organise, analyse, and visualise business data. By combining formulas, PivotTables, logical functions, and charts, I was able to transform raw retail and sales data into meaningful insights that support better decision-making.
+
+📊 Data ➜ 🔍 Analysis ➜ 📈 Insights ➜ 🚀 Better Decisions
