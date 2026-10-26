@@ -1,5 +1,6 @@
-📊 Excel Data Analysis Project | Data Technician Bootcamp
-🚀 Overview
+# 📊 Excel Data Analysis Project | Data Technician Bootcamp
+
+## 🚀 Overview
 Welcome to my Excel Data Analysis project! This workbook was completed during a Data Technician Bootcamp and showcases a range of Excel skills used to analyse retail and sales data. From cleaning and organising data to creating insightful reports and visualisations, this project demonstrates how Excel can be used to turn raw data into meaningful business insights.
 
 🛠️ Skills & Techniques Demonstrated
